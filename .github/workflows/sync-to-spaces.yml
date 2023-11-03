@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://radmada:$HF_TOKEN@huggingface.co/spaces/radmada/gradio_ai main
+        run: git push https://radmada:$HF_TOKEN@huggingface.co/spaces/radmada/gradio_ai main --force
