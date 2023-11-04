@@ -12,7 +12,7 @@ license: mit
 
 # Gradio.AI Sample
 
-Sample Gradio.AI to display an easy linear model. See he Spaces UI web [here](https://huggingface.co/spaces/radmada/gradio_ai).
+Sample Gradio.AI to display an easy linear model. See the Spaces UI web [here](https://huggingface.co/spaces/radmada/gradio_ai).
 
 ## Build & Run
 
